@@ -1,16 +1,16 @@
 ﻿@model PiesListViewModel
 
-@ViewBag.CurrentCategory
+
 @foreach (var pie in Model.Pies)
 {
     <div class="col-sm-4 col-lg-4 col-md-4">
         <div class="thumbnail">
             <img src="@pie.ImageThumbnailUrl" alt="">
             <div class="caption">
-                <h3 class="pull-right">@pie.Price.ToString("c")</h3>
-                <h3>
+                <h4 class="pull-right">@pie.Price.ToString("c")</h4>
+                <h4>
                     <a>@pie.Name</a>
-                </h3>
+                </h4>
                 <p>@pie.ShortDescription</p>
             <h4>
     @{

@@ -1,5 +1,5 @@
---temp-output:c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\obj\Debug\netcoreapp1.0\
---out:c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\bin\Debug\netcoreapp1.0\BethanysPieShopp.dll
+--temp-output:C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\bin\src\BethanysPieShopp\obj\Debug\netcoreapp1.0\
+--out:C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\bin\src\BethanysPieShopp\bin\Debug\netcoreapp1.0\BethanysPieShopp.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,21 +196,20 @@
 --reference:C:\Users\mhyman\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\mhyman\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\mhyman\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\obj\Debug\netcoreapp1.0\BethanysPieShoppdotnet-compile.deps.json",BethanysPieShopp.deps.json
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Program.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Startup.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Controllers\PieController.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Migrations\20170816043029_Initial.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Migrations\20170816043029_Initial.Designer.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Migrations\AppDbContextModelSnapshot.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\AppDbContext.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\Category.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\CategoryRepository.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\DbInitializer.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\ICategoryRepository.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\IPieRepository.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\MockCategoryRepository.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\MockPieRepository.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\Pie.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\PieRepository.cs
-c:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\ViewModels\PiesListViewModel.cs
+--resource:"C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\bin\src\BethanysPieShopp\obj\Debug\netcoreapp1.0\BethanysPieShoppdotnet-compile.deps.json",BethanysPieShopp.deps.json
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Program.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Startup.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Controllers\PieController.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Migrations\20170816043029_Initial.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Migrations\20170816043029_Initial.Designer.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Migrations\AppDbContextModelSnapshot.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\AppDbContext.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\Category.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\CategoryRepository.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\ICategoryRepository.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\IPieRepository.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\MockCategoryRepository.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\MockPieRepository.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\Pie.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\Models\PieRepository.cs
+C:\users\mhyman\documents\visual studio 2015\Projects\BethanysPieShopp\src\BethanysPieShopp\ViewModels\PiesListViewModel.cs
